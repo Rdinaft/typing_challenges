@@ -1,7 +1,8 @@
 from constants import ___
+#from typing import Set
 
 
-def calculate_total_spent_for_users(users_ids: ___, users_ids_to_users_map: ___) -> ___:
+def calculate_total_spent_for_users(users_ids: set[int], users_ids_to_users_map: dict[int, tuple[str, int, list[int]]]) -> int:
     pass
 
 

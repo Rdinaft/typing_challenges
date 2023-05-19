@@ -2,7 +2,7 @@ from constants import ___
 
 
 def calculate_total_spent_for_user(user: ___) -> ___:
-    # попробуй тут воспользовать typing.TypedDict
+    # попробуй тут воспользоваться typing.TypedDict
     pass
 
 
